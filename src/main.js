@@ -17,7 +17,7 @@ import Axios from 'axios'
 
 // 配置请求信息
 var $http = Axios.create({
-  　baseURL: 'https://ws.mammasay.com/',
+  　baseURL: '请联系作者',
   　timeout: '5000',  //请求超时时间
   　headers: {'X-Custom-Header': 'foobar'}     //header传值，例如：Authorization
 })
