@@ -1,30 +1,11 @@
-# demo
+![img](https://github.com/Hi-Sen/React-Antd-demo-one/blob/master/src/img/vued.png)
 
-> A Vue.js project
+![img](https://github.com/Hi-Sen/React-Antd-demo-one/blob/master/src/img/vuee.png)
 
-## Build Setup
+![img](https://github.com/Hi-Sen/React-Antd-demo-one/blob/master/src/img/vuea.png)
 
-``` bash
-# install dependencies
-npm install
+![img](https://github.com/Hi-Sen/React-Antd-demo-one/blob/master/src/img/vuef.png)
 
-# serve with hot reload at localhost:8080
-npm run dev
+![img](https://github.com/Hi-Sen/React-Antd-demo-one/blob/master/src/img/vuec.png)
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+![img](https://github.com/Hi-Sen/React-Antd-demo-one/blob/master/src/img/vueb.jpg)
